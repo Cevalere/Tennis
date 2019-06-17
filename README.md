@@ -1,4 +1,4 @@
-# Tennis
+# Tennis Scoreboard
 Tennis Scoreboard in C# Winforms
 
 Prerequistes : .Net Framework 2.0 et 3.0
